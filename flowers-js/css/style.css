@@ -3,7 +3,7 @@
     font-family: 'Poppins',cursive;
 }
 body {
-    background-image: url(/img/dark-moon-2560-x-1600-wallpaper-18ufqe4xf2u134oc.webp);
+    background-image: url(../img/luna2.webp);
     background-size: cover; /* Ajusta el tamaño de la imagen */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita la repetición de la imagen */
